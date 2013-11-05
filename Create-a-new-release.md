@@ -100,7 +100,7 @@ Announcements
 
 2. Jenkins
 
-[TerasologyLauncherStable](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherStable/lastBuild/)
+    [TerasologyLauncherStable](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherStable/lastBuild/)
 
     displayname
 
