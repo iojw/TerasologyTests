@@ -31,3 +31,29 @@ Prepare release (branch "develop", local git workspace)
 4. Create a tag
 
     Example: git tag 'v1.1.0'
+
+Merge "develop" into "master" (local git workspace)
+---------------------------------------------------
+
+1. git checkout master
+
+2. git merge --ff-only develop
+
+3. Gradle test
+
+    gradlew clean build distZip distChangelog
+
+    gradlew run
+
+Release (branch "master")
+-------------------------
+
+1. Push local master
+
+    git push --tags movingblocks master
+
+2. Build jenkins job [TerasologyLauncherStable](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherStable/)
+
+    View test and check results
+
+    Download and test created version
