@@ -57,3 +57,53 @@ Release (branch "master")
     View test and check results
 
     Download and test created version
+
+Prepare next release (branch "develop")
+---------------------------------------
+
+1. git checkout develop
+
+2. Update file [version.txt](/MovingBlocks/TerasologyLauncher/blob/develop/version.txt)
+
+    Example: 1.1.1-0
+
+3. Update file [CHANGELOG.md](/MovingBlocks/TerasologyLauncher/blob/develop/CHANGELOG.md)
+
+    Example: x.y.z (unreleased)
+
+4. Commit both files
+
+    Example: "Version 1.1.1-0 (develop)"
+
+5. Push local develop
+
+    git push --tags movingblocks develop
+
+    git push --tags origin
+
+Announcements
+-------------
+
+1. Git releases
+
+    [GitHub Releases](https://github.com/MovingBlocks/TerasologyLauncher/releases)
+
+    Draft a new release
+
+    Choose tag
+
+    Copy Changelog
+
+    Add "TerasologyLauncher.zip"
+
+    Publish release    
+
+2. Jenkins
+
+[TerasologyLauncherStable](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherStable/lastBuild/)
+
+    displayname
+
+    description
+
+3. Forum (english, german), Twitter, Facebook
