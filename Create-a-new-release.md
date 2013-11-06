@@ -12,7 +12,7 @@ Release candidate (branch "develop")
 
     Example: "Version 1.1.0-rc (develop)"
 
-4. Push local develop
+4. Push local "develop" branch
 
     git push movingblocks develop
 
