@@ -88,9 +88,7 @@ Prepare next release (branch "develop")
 Announcements
 -------------
 
-1. Git releases
-
-    [GitHub Releases](https://github.com/MovingBlocks/TerasologyLauncher/releases)
+1. [GitHub Releases](https://github.com/MovingBlocks/TerasologyLauncher/releases)
 
     Draft a new release
 
@@ -102,9 +100,7 @@ Announcements
 
     Publish release    
 
-2. Jenkins
-
-    [TerasologyLauncherStable](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherStable/lastBuild/)
+2. [Jenkins TerasologyLauncherStable](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherStable/lastBuild/)
 
     Change displayname and description
 
