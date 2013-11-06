@@ -54,7 +54,7 @@ Merge "develop" into "master" (local git workspace)
 
 Release (branch "master")
 -------------------------
-1. Push local master
+1. Push local "master" branch
 
     git push --tags movingblocks master
 
@@ -82,7 +82,7 @@ Prepare next release (branch "develop")
 
     Example: "Version 1.1.1-0 (develop)"
 
-5. Push local develop
+5. Push local "develop" branch
 
     git push --tags movingblocks develop
 
