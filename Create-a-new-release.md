@@ -12,7 +12,11 @@ Release candidate (branch "develop")
 
     Example: "Version 1.1.0-rc (develop)"
 
-4. Build jenkins job [TerasologyLauncherNightly](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherNightly/)
+4. Push local develop
+
+    git push movingblocks develop
+
+5. Build jenkins job [TerasologyLauncherNightly](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherNightly/)
 
     View test and check results
 
