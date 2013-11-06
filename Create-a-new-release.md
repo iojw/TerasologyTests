@@ -58,6 +58,8 @@ Release (branch "master")
 
     Download and test created version
 
+3. Close GitHub Milestone
+
 Prepare next release (branch "develop")
 ---------------------------------------
 
@@ -80,6 +82,8 @@ Prepare next release (branch "develop")
     git push --tags movingblocks develop
 
     git push --tags origin
+
+6. Create new GitHub Milestone
 
 Announcements
 -------------
