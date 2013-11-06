@@ -8,7 +8,11 @@ Release candidate (branch "develop")
 
     Example: 1.1.0 (2013-10-27, unreleased)
 
-3. Build jenkins job [TerasologyLauncherNightly](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherNightly/)
+3. Commit both files
+
+    Example: "Version 1.1.0-rc (develop)"
+
+4. Build jenkins job [TerasologyLauncherNightly](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherNightly/)
 
     View test and check results
 
@@ -34,7 +38,6 @@ Prepare release (branch "develop", local git workspace)
 
 Merge "develop" into "master" (local git workspace)
 ---------------------------------------------------
-
 1. git checkout master
 
 2. git merge --ff-only develop
@@ -47,7 +50,6 @@ Merge "develop" into "master" (local git workspace)
 
 Release (branch "master")
 -------------------------
-
 1. Push local master
 
     git push --tags movingblocks master
@@ -62,7 +64,6 @@ Release (branch "master")
 
 Prepare next release (branch "develop")
 ---------------------------------------
-
 1. git checkout develop
 
 2. Update file [version.txt](/MovingBlocks/TerasologyLauncher/blob/develop/version.txt)
@@ -87,7 +88,6 @@ Prepare next release (branch "develop")
 
 Announcements
 -------------
-
 1. [GitHub Releases](https://github.com/MovingBlocks/TerasologyLauncher/releases)
 
     Draft a new release
