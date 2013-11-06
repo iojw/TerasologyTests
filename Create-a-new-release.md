@@ -106,8 +106,6 @@ Announcements
 
     [TerasologyLauncherStable](http://jenkins.movingblocks.net/view/Launcher/job/TerasologyLauncherStable/lastBuild/)
 
-    displayname
-
-    description
+    Change displayname and description
 
 3. Forum (english, german), Twitter, Facebook
