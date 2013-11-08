@@ -86,7 +86,7 @@ Prepare next release (branch "develop")
 
     git push --tags movingblocks develop
 
-    git push --tags origin
+    git push --tags origin develop
 
 6. Create new GitHub Milestone
 
