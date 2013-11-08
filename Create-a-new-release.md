@@ -96,11 +96,13 @@ Announcements
 
     Draft a new release
 
-    Choose tag
+    Choose existing tag version (Example v1.1.0)
+
+    Set Release title (Example: Release 1.1.0)
 
     Copy Changelog
 
-    Add "TerasologyLauncher.zip"
+    Attach binary "TerasologyLauncher.zip"
 
     Publish release    
 
