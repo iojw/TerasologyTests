@@ -2,7 +2,9 @@ Release candidate (branch "develop")
 ------------------------------------
 1. Build a local development release
 
-   gradlew clean createRelease
+    gradlew clean createRelease
+
+    gradlew run
 
 2. Update file [version.txt](/MovingBlocks/TerasologyLauncher/blob/develop/version.txt)
 
@@ -52,7 +54,7 @@ Merge "develop" into "master" (local git workspace)
 
 3. Gradle test
 
-    gradlew clean build distZip distChangelog
+    gradlew clean createRelease
 
     gradlew run
 
