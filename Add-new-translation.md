@@ -8,7 +8,7 @@ Suppose you have done a translation to German. The necessary steps would be:
   * add your new translation to the test suite in [`src/test/java/org/terasology/launcher/util/TestLanguages.java`](https://github.com/MovingBlocks/TerasologyLauncher/blob/develop/src/test/java/org/terasology/launcher/util/TestLanguages.java). Just look at the other tests and copy and change them apropriately.
 
 To keep everything nice and clean we adivse you to use a **feature branch**:
-  * `git chekout develop`
+  * `git checkout develop`
   * `git branch germanTranslation`
   * `git checkout germanTranslation`
   * Add/Change files
