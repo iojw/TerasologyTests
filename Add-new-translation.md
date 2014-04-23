@@ -15,4 +15,4 @@ To keep everything nice and clean we adivse you to use a **feature branch**:
   * `git push`
   * Open pull request
 
-If you want, feel free to add yourself to the README as a contributor 
+If you want, feel free to add yourself to the README.md as a contributor.
