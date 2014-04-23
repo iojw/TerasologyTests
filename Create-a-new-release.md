@@ -102,7 +102,7 @@ Announcements
 
     Draft a new release
 
-    Choose "Target: develop"
+    Choose "Target: master"
 
     Enter/Choose existing tag version (Example v1.1.0)
 
