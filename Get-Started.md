@@ -18,7 +18,7 @@ A list of all releases can be found [here](https://github.com/MovingBlocks/Teras
 Nightly builds are available through our Jenkins server. 
 
 __Note:__ *The nightly builds are for testing purposes only. We cannot guarantee for stability, and the builds are often
-work-in-progress versions for the next release. Use it on your own risk!**
+work-in-progress versions for the next release. Use it on your own risk!*
 
 <p align="center">
 <a href="jenkins.terasology.org/job/TerasologyLauncherNightly/lastStableBuild/artifact/build/distributions/TerasologyLauncher.zip">Latest Nightly Build</a>
