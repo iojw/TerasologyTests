@@ -1,4 +1,4 @@
-<img align="left" src="images/download.png"/> 
+<img align="left" width="96px" src="images/download.png"/> 
 Getting started with __TerasologyLauncher__ is really easy. The only pre-requisite is that you have installed *Java 7* 
 (Update 6 or later) on your system. This page will give a brief guide on how to download, install, and use the launcher.
 
