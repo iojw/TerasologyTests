@@ -1,6 +1,6 @@
 [[images/logo.png]]
 
-Welcome to **TerasologyLauncher** -- the official game launcher for [Terasology](https://github.com/MovingBlocks/Terasology/)!
+Welcome to **TerasologyLauncher** &mdash; the official game launcher for [Terasology](https://github.com/MovingBlocks/Terasology/)!
 
 This wiki is the main source for *developers*, *contributors* and *users* of the TerasologyLauncher project. 
 The launcher is part of the open source community around Terasology, and provides easy acces to the game. 
@@ -10,10 +10,10 @@ The launcher is part of the open source community around Terasology, and provide
 
 <table align="center">
   <thead><tr>
-    <th>[[Get-Started]]</th>
-    <th>[Community &amp; Contact](Community)</th>
-    <th>[[Setup Guide]]</th>
-    <th>[Technical Documentation](Documentation)</th>
+    <th width="25%">[[Get Started]]</th>
+    <th width="25%">[[Community &amp; Contact|Community]]</th>
+    <th width="25%">[[Setup Guide]]</th>
+    <th width="25%">[[Technical Documentation|Documentation]]</th>
   </tr></thead>
   <tr>
     <td align="center">[[images/download.png]]</td>
