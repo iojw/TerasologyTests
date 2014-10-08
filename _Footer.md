@@ -1,1 +1,1 @@
-_[[Home]] / [[Get Started]] / [About & Contact](Community) / **[Terasology](terasology.org)** / Copyright © 2014 MovingBlocks_
+<div align="center"><em>[[Home]] / [[Get Started]] / [[About & Contact|Community]] / <b><a href="http://terasology.org">Terasology</a></b> / Copyright © 2014 MovingBlocks</em></div>
