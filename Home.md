@@ -28,3 +28,6 @@ The launcher is part of the open source community around Terasology, and provide
     <td width="25%">In-depth information about the techniques used in TerasologyLauncher.</td>
   </tr>  
 </table>
+
+## License
+__TerasologyLauncher__ is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
