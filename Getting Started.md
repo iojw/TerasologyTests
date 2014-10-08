@@ -40,7 +40,7 @@ Start the __TerasologyLauncher__ using one of the following methods:
 ## Using Java Web Start
 
 
-# Run the Launcher
+# Running the Launcher
  
 ## First Start
 
