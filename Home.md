@@ -16,10 +16,10 @@ The launcher is part of the open source community around Terasology, and provide
     <th width="25%">[[Technical Documentation|Documentation]]</th>
   </tr></thead>
   <tr>
-    <td width="25%" align="center">[[images/download.png | width=128px]]</td>
-    <td width="25%" align="center">[[images/community.png | width=128px]]</td>
-    <td width="25%" align="center">[[images/setup.png | width=128px]]</td>
-    <td width="25%" align="center">[[images/documentation.png | width=128px]]</td>
+    <td width="25%" align="center">[[images/download.png | width=96px]]</td>
+    <td width="25%" align="center">[[images/community.png | width=96px]]</td>
+    <td width="25%" align="center">[[images/setup.png | width=96px]]</td>
+    <td width="25%" align="center">[[images/documentation.png | width=96px]]</td>
   </tr>
   <tr>
     <td width="25%">Information for end users on how to get, start and use the launcher.</td>
