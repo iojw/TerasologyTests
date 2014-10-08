@@ -10,7 +10,7 @@ The launcher is part of the open source community around Terasology, and provide
 
 <table align="center">
   <thead><tr>
-    <th width="25%">[[Get Started]]</th>
+    <th width="25%">[[Getting Started]]</th>
     <th width="25%">[[Community &amp; Contact|Community]]</th>
     <th width="25%">[[Setup Guide]]</th>
     <th width="25%">[[Technical Documentation|Documentation]]</th>
