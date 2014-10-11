@@ -16,7 +16,7 @@ The `MAJOR` version is changed on breaking changes, e.g. when migrating from a S
 is increased when small feature enhancements or other non-breaking changes are introduced. The `PATCH` version indicates 
  patches and bug fixes which don't add functionality to the launcher. 
  
-The current version is stored in the file "[version.txt](/version.txt)".
+The current version is stored in the file `version.txt`.
 
 We have a detailed guide on how to [[release a new version|create-new-release]]. 
 
