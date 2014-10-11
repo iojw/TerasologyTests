@@ -43,7 +43,7 @@ To get the latest changes from your remote repositories (e.g. `movingblocks`) yo
 
 Make yourself familiar with Git's concept of repositories, branches, and commits. You can find some resources on how to use Git at the bottom of this page. 
  
-Assume you have pushed some changes to your fork into a branch `myFeature`. In order to let us know about your work and give us the possibility to incorporate your changes you should send us a *pull request*. You can do this by selecting the `myFeature` branch on you GitHub repo and click the button which says "Open pull request". 
+Assume you have pushed some changes to your fork into a branch `myFeature`. In order to let us know about your work and give us the possibility to incorporate your changes you should send us a *pull request*. You can do this by selecting the `myFeature` branch on you GitHub repo and click the button which says "Open pull request". More information on how to contribute can be found in [CONTRIBUTING.md](https://github.com/MovingBlocks/TerasologyLauncher/blob/develop/CONTRIBUTING.md).
 
 If you have further questions see the [[Community]] page and get in contact with us.
 
