@@ -49,7 +49,7 @@ If you have further questions see the [[Community]] page and get in contact with
 
 ## Related Resources
 Tutorials and further information on Git:
-- htp://www.vogella.de/articles/Git/article.html
+- http://www.vogella.de/articles/Git/article.html
 - http://gitref.org/
 - http://progit.org/
 
