@@ -1,3 +1,5 @@
+[[HOME|Home]] > [[TERASOLOGY LAUNCHER DOCUMENTATION|Documentation]] > [[CREATE NEW RELEASE|create-new-release]]
+
 Release candidate (branch "develop")
 ------------------------------------
 1. Build a local development release

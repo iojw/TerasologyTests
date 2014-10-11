@@ -1,3 +1,5 @@
+[[HOME|Home]] > [[SETUP GUIDE|setup-guide]]
+
 <img align="left" width="96px" src="images/setup.png"/>
 __TerasologyLauncher__ uses a [Gradle](http://gradle.org)-based build system and provides a [wrapper](gradle.org/docs/current/userguide/gradle_wrapper.html) `gradlew`. The wrapper is a script which is called from the root of the source tree. It downloads and installs [Gradle](http://gradle.org) automatically.
 Depending on the system it may be necessary to `./graldew` instead of plain `gradlew`.

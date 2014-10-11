@@ -1,3 +1,5 @@
+[[HOME|Home]] > [[TERASOLOGY LAUNCHER DOCUMENTATION|Documentation]] > [[ADD NEW TRANSLATION|add-new-translation]]
+
 Adding a new translation for the launcher is quite easy. You only need to change a bunch of text bundle files and one Java file.
 
 Suppose you have done a translation to German. The necessary steps would be:

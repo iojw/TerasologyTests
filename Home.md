@@ -1,3 +1,5 @@
+[[HOME|Home]]
+
 [[images/logo.png]]
 
 Welcome to **TerasologyLauncher** &mdash; the official game launcher for [Terasology](https://github.com/MovingBlocks/Terasology/)!
