@@ -61,7 +61,7 @@ There are [different possibilities](http://www.java.com/en/download/faq/java_web
 
 * On the first run, JWS will install a shortcut on the Desktop which can be used for later runs
 
-* From the command prompt: **Start** -> **Run** -> `javaws <LINK>' 
+* From the command prompt: **Start** -> **Run** -> `javaws <LINK>` 
 
 ### Technical Background
 
