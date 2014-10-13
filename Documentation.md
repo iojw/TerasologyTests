@@ -51,6 +51,25 @@ and contact us.
 
 Java Web Start
 --------------
+We use [Java Web Start (JWS)](http://www.oracle.com/technetwork/java/javase/javawebstart/index.html) to deploy the launcher. It ensures the most current version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE).
+
+### Run webstart
+
+There are [different possibilities](http://www.java.com/en/download/faq/java_webstart.xml) to run JWS files:
+
+* Click the link to the `webstart.jnlp` file (Java must be activated in the browser to work)
+
+* On the first run, JWS will install a shortcut on the Desktop which can be used for later runs
+
+* From the command prompt: **Start** -> **Run** -> `javaws <LINK>' 
+
+### Technical Background
+
+The application is described in a file `webstart.jnlp` as a set of jars (main application plus dependencies) which will be downloaded and run by JWS when executed.
+
+The file can be manually created by the gradle task `webstart`. Our Continuous Integration (CI) server does that on a regular basis. The latest automated build (see Jenkins section) is archived there.
+
+The webstart process requires all jars to be signed. We use a root-certificate by [certum.pl](http://certum.pl) to do that.
 
 JavaFX
 ------
