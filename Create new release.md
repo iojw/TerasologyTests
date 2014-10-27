@@ -46,7 +46,7 @@ Prepare release (branch "develop", local git workspace)
 
 4. Create a tag
 
-    Example: git tag 'v1.1.0'
+    Example: git tag -a 'v1.1.0' -m "Version 1.1.0"
 
 Merge "develop" into "master" (local git workspace)
 ---------------------------------------------------
