@@ -4,6 +4,9 @@
 
 Welcome to **TerasologyLauncher** &mdash; the official game launcher for [Terasology](https://github.com/MovingBlocks/Terasology/)!
 
+[![Build Status](http://jenkins.terasology.org/buildStatus/icon?job=TerasologyLauncherStable)](http://jenkins.terasology.org/view/Launcher/job/TerasologyLauncherStable/)
+[![Translation status](http://translate.terasology.org/widgets/terasologylauncher-shields-badge.svg)](http://translate.terasology.org/engage/terasologylauncher/?utm_source=widget)
+
 This wiki is the main source for *developers*, *contributors* and *users* of the TerasologyLauncher project. 
 The launcher is part of the open source community around Terasology, and provides easy acces to the game. 
 
