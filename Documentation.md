@@ -35,8 +35,7 @@ We have set up automatic builds for [Nightly Builds](http://jenkins.terasology.o
 
 Translations
 ------------
-We attach great importance on the usabilty of the launcher - all over the world. Therefore, internationalization is a 
-main goal for the development of **TerasologyLauncher**. We currently support 5 languages:
+We attach great importance on the usabiilty of the launcher - all over the world. Therefore, internationalization is a main goal for the development of **TerasologyLauncher**. We currently support 5 languages:
  
  - English
  - German
@@ -44,10 +43,11 @@ main goal for the development of **TerasologyLauncher**. We currently support 5 
  - Polish
  - Russian
 
-Translation is very easy, you just have to translate a bunch of text snippets (labels, error messages, and so on). We've 
-put up a guide on [[How to Add a New Translation|add-new-translation]]. Don't worry if you don't want to sign for GitHub
-or deal with all the technical source code stuff, just drop by on the [forum](forum.terasology.org) or on IRC `#terasology` 
-and contact us. 
+Translation is very easy, you just have to translate a bunch of text snippets (labels, error messages, and so on).
+
+The easiest way of helping with translations is to use our [Weblate](http://weblate.org/) web interface at [translate.terasology.org/](http://translate.terasology.org/). For more information go to our guide on [[How to Add a New Translation|add-new-translation]]. 
+
+Don't worry if you don't want to sign for GitHub or deal with all the technical source code stuff, just drop by on the [forum](forum.terasology.org) or on IRC `#terasology` and contact us. 
 
 Java Web Start
 --------------
