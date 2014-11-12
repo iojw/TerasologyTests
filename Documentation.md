@@ -22,8 +22,8 @@ We have a detailed guide on how to [[release a new version|create-new-release]].
 
 Planned features for future versions and concrete milestone goals can be found under our [GitHub Milestones](https://github.com/MovingBlocks/TerasologyLauncher/milestones).
 
-Building
---------
+Building [![Build Status](http://jenkins.terasology.org/view/Launcher/job/TerasologyLauncherStable/badge/icon)](http://jenkins.terasology.org/view/Launcher/job/TerasologyLauncherStable/)
+--------------------------------------
 This section covers the build process of **TerasologyLauncher**. In general, we are using [Gradle](gradle.org) as build 
 tool and [Jenkins](jenkins-ci.org) for CI.
 
@@ -33,8 +33,8 @@ tool and [Jenkins](jenkins-ci.org) for CI.
 All Jenkins jobs regarding the launcher can be found under the [Jenkins Launcher View](http://jenkins.terasology.org/view/Launcher/).
 We have set up automatic builds for [Nightly Builds](http://jenkins.terasology.org/view/Launcher/job/TerasologyLauncherNightly/), triggered by commits on GitHub.
 
-Translations
-------------
+Translations [![Translation status](http://translate.terasology.org/widgets/terasologylauncher-shields-badge.svg)](http://translate.terasology.org/engage/terasologylauncher/?utm_source=widget)
+--------------------------------------
 We attach great importance on the usabiilty of the launcher - all over the world. Therefore, internationalization is a main goal for the development of **TerasologyLauncher**. We currently support 5 languages:
  
  - English
@@ -45,9 +45,11 @@ We attach great importance on the usabiilty of the launcher - all over the world
 
 Translation is very easy, you just have to translate a bunch of text snippets (labels, error messages, and so on).
 
-The easiest way of helping with translations is to use our [Weblate](http://weblate.org/) web interface at [translate.terasology.org/](http://translate.terasology.org/). For more information go to our guide on [[How to Add a New Translation|add-new-translation]]. 
+The easiest way of helping with translations is to use our [Weblate](http://weblate.org/) web interface at [translate.terasology.org](http://translate.terasology.org/). For more information go to our guide on [[How to Add a New Translation|add-new-translation]]. 
 
 Don't worry if you don't want to sign for GitHub or deal with all the technical source code stuff, just drop by on the [forum](forum.terasology.org) or on IRC `#terasology` and contact us. 
+
+More in-depth technical information about the Weblate instance is documented in the main project's wiki under [Weblate Setup](https://github.com/MovingBlocks/Terasology/wiki/Weblate-Setup).
 
 Java Web Start
 --------------
