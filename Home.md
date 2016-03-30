@@ -4,11 +4,11 @@
 
 Welcome to **TerasologyLauncher** &mdash; the official game launcher for [Terasology](https://github.com/MovingBlocks/Terasology/)!
 
-[![Build Status](http://jenkins.terasology.org/view/Launcher/job/TerasologyLauncherStable/badge/icon)](http://jenkins.terasology.org/view/Launcher/job/TerasologyLauncherStable/)
+[![Build status](http://jenkins.terasology.org/view/Launcher/job/TerasologyLauncherStable/badge/icon)](http://jenkins.terasology.org/view/Launcher/job/TerasologyLauncherStable/)
 [![Translation status](http://translate.terasology.org/widgets/terasologylauncher-shields-badge.svg)](http://translate.terasology.org/engage/terasologylauncher/?utm_source=widget)
 
 This wiki is the main source for *developers*, *contributors* and *users* of the TerasologyLauncher project. 
-The launcher is part of the open source community around Terasology, and provides easy acces to the game. 
+The launcher is part of the open source community around Terasology and provides easy access to the game. 
 
 
 ## Overview
@@ -28,7 +28,7 @@ The launcher is part of the open source community around Terasology, and provide
   </tr>
   <tr>
     <td width="25%">Information for end users on how to get, start and use the launcher.</td>
-    <td width="25%">You want to get more information or get in contact with us? Check out this section then.</td>
+    <td width="25%">Check out this section to get more information or get in touch with us!</td>
     <td width="25%">A step-by-step guide on how to set-up and run TerasologyLauncher from source.</td>
     <td width="25%">In-depth information about the techniques used in TerasologyLauncher.</td>
   </tr>  

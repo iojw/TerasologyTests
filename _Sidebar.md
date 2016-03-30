@@ -1,9 +1,6 @@
-__[[Home]]__
-
-__[[Getting Started]]__
-
-__[[Setup Guide]]__
-
-__[[Documentation]]__
- - [[Create new Release]]
- - [[Add new Translation]]
+- [[Home]]
+- [[Getting Started]]
+- [[Setup Guide]]
+- [[Documentation]]
+ - [[Create New Release]]
+ - [[Add New Translation]]
