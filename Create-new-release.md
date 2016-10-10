@@ -36,7 +36,7 @@ Prepare release (branch "develop", local git workspace)
 
     Example: 1.1.0
 
-2. Update file [CHANGELOG.md](/MovingBlocks/TerasologyLauncher/blob/develop/CHANGELOG.md)
+2. Update file [CHANGELOG.md](/MovingBlocks/TerasologyLauncher/blob/develop/CHANGELOG.md). Furthermore, check for new contributors and add them to README.
 
     Example: 1.1.0 (2013-10-27)
 
