@@ -4,3 +4,4 @@
 - [[Documentation]]
  - [[Create New Release]]
  - [[Add New Translation]]
+ - [[Settings Test Plan]]
